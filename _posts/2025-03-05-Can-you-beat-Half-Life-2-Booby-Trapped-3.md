@@ -45,6 +45,12 @@ _Old Thumbnail_
 
 ---
 
+## Edits
+
+There are none yet, but if I do happen to edit anything noteworthy, I will notate here!
+
+---
+
 All of my posts have a comment section beneath them, powered by [Giscus](https://giscus.app/).
 
 Did I get something wrong? Do you hate my opinion? Do you have additional thoughts about my blabbering???
@@ -52,7 +58,3 @@ Did I get something wrong? Do you hate my opinion? Do you have additional though
 **Leave a comment!**
 
 Note this does require a GitHub account.
-
-## Edits
-
-There are none yet, but if I do happen to edit anything noteworthy, I will notate here!

@@ -2,7 +2,7 @@
 title: Portal Randomized Demo Released!
 date: 2025-02-18 12:00:00 -0500
 categories: [Mod Development, Portal Randomized]
-tags: [portal randomized, mod development]     # TAG names should always be lowercase
+tags: [portal randomized, mod development, memesrus_124]     # TAG names should always be lowercase
 description: The good ole Portal campaign as you know it but with a simple twist. Every chamber has a random effect applied to it, so every play through is different. Comes with 10 different random effects and 2 additional game modes!
 published: true # Make true when publishing
 media_subpath: '/assets/media/20250218'
@@ -45,6 +45,12 @@ You can also find a VOD of my good friend [MemesRUS_124](https://www.youtube.com
 
 ---
 
+## Edits
+
+There are none yet, but if I do happen to edit anything noteworthy, I will notate here!
+
+---
+
 All of my posts have a comment section beneath them, powered by [Giscus](https://giscus.app/).
 
 Did I get something wrong? Do you hate my opinion? Do you have additional thoughts about my blabbering???
@@ -52,7 +58,3 @@ Did I get something wrong? Do you hate my opinion? Do you have additional though
 **Leave a comment!**
 
 Note this does require a GitHub account.
-
-## Edits
-
-There are none yet, but if I do happen to edit anything noteworthy, I will notate here!
