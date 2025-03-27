@@ -36,7 +36,7 @@ One of Ryder's most common things to do was spam the chat and ask me to read his
 Important to note at the time a friend of mine named Dawson just joined the chat shortly after Ryder's arrival. 
 His account's name was Lerpes, as shown in the image below.
 
-![Desktop View](Lerpes.png){: .shadow }
+![Desktop View](lerpes.png){: .shadow }
 _Lerpes and Ryder in the chat together_
 
 This is important because Lerpes, or Dawson, eventually changed his username to "RyderRiots".
@@ -175,7 +175,6 @@ Want to help solve the mystery? This surely will help when these accounts get ba
 This the longest blog post as of yet.
 
 AND the most painful!
-
 
 ---
 
