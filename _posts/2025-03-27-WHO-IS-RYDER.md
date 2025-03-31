@@ -92,6 +92,7 @@ all of which I have cataloged below:
 	- New in the chat
 	- Aliases:
 		- MemesRUs
+		- Elevated777
 		
 These are just what I know, but there is probably far, far more.
 
@@ -160,11 +161,11 @@ To perverse the accounts that are still currently active, especially for future 
 I decided to make an archive.org collection here for all of Ryder's known accounts. 
 Want to help solve the mystery? This surely will help when these accounts get banned or the names inevitably change.
 
-- [Daniel187ite4g](https://web.archive.org/web/20250327232308/https://www.youtube.com/web/20250327232308/https://www.youtube.com/channel/UCOI9DFMF-YFt3yE2KtktpgQ)
+- [Daniel187ite4g](https://web.archive.org/web/20250331013852/https://www.youtube.com/channel/UCOI9DFMF-YFt3yE2KtktpgQ)
 
 - [Rugged-99](https://web.archive.org/web/20241125100826/https://www.youtube.com/@Speed-0171)
 
-- Bigg Dawg Slanders (not able to archive yet)
+- [Bigg Dawg Slanders](https://web.archive.org/web/20250331015317/https://www.youtube.com/channel/UCjB-rxBcInC0h_C9HbCRfiQ) (Wasn't able to archive until after name change)
 
 ## Ryder Button
 
@@ -172,15 +173,31 @@ Want to help solve the mystery? This surely will help when these accounts get ba
 
 ## FUN FACT
 
-This the longest blog post as of yet.
+~~This the longest blog post as of yet.~~
 
 AND the most painful!
+
+Actually it's [technically this one](https://blog.adamlaprade.me/posts/Portal-Randomized-Demo-2/), but all of this I typed FOR the blog, so I still wanna count it.
 
 ---
 
 ## Edits
 
-There are none yet, but if I do happen to edit anything noteworthy, I will notate here!
+### March 30th, 2025
+
+I was only able to archive the Daniel187ite4g (Original unbanned Ryder) account later.
+It has slightly changed, but only by it's channel about description:
+
+![Desktop View](Ryder2.png){: w="386" h="293" }{: .shadow }
+_Description as of 3/27_
+
+Ryder updated Big Dawg Slanders to Elevated777. Sadly I was not able to archive the page before hand, 
+so all I have is this screen shot:
+
+![Desktop View](Bigdawg2.png){: w="386" h="293" }{: .shadow }
+_Description and channel PFP / name as of 3/27_
+
+- Corrected myself about the [Fun Fact](#fun-fact)
 
 ---
 
