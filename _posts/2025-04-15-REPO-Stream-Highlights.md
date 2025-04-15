@@ -7,7 +7,7 @@ description: My first time playing REPO!
 published: true # Make true when publishing
 image: https://i.ytimg.com/vi_webp/zBGsuAt44Kk/maxresdefault.webp
 ---
-{% include embed/youtube.html id='zBGsuAt44Kk ' %}
+{% include embed/youtube.html id='zBGsuAt44Kk' %}
 
 ## Description
 This is the description copied from the [YouTube Video](https://youtu.be/zBGsuAt44Kk) (with tweaks made)
@@ -21,6 +21,10 @@ THIS VIDEO WOULD NOT BE POSSIBLE WITHOUT [MICHAEL](https://www.youtube.com/@mich
 - [MemesRUs_124](https://www.youtube.com/@MemesRUs_124): [Twitch](https://www.twitch.tv/memesrus_124)
 
 - [Preliator](https://www.youtube.com/@preliator): [Twitch](https://www.twitch.tv/preliator)
+
+### YouTube Short
+
+{% include embed/youtube.html id='s9w6bkd4z_A' %}
 
 ---
 
