@@ -18,9 +18,9 @@ THIS VIDEO WOULD NOT BE POSSIBLE WITHOUT [MICHAEL](https://www.youtube.com/@mich
 
 ### PEOPLE IN THIS VIDEO (sorted alphabetically)
 
-[@MemesRUs_124](https://www.youtube.com/@MemesRUs_124): [Twitch](https://www.twitch.tv/memesrus_124)
+- [MemesRUs_124](https://www.youtube.com/@MemesRUs_124): [Twitch](https://www.twitch.tv/memesrus_124)
 
-[@Preliator](https://www.youtube.com/@preliator): [Twitch](https://www.twitch.tv/preliator)
+- [Preliator](https://www.youtube.com/@preliator): [Twitch](https://www.twitch.tv/preliator)
 
 ---
 
