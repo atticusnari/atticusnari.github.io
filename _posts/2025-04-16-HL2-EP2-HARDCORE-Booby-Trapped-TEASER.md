@@ -42,4 +42,9 @@ Note this does require a GitHub account.
 
 ## Edits
 
-There are none yet, but if I do happen to edit anything noteworthy, I will notate here!
+### 5/20/2025
+
+The early access cut has been posted to YouTube! You still have time to get access, 
+otherwise the video will be released publicly on 5/22.
+
+Thank you for all of your support! 
