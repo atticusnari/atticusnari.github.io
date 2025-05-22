@@ -32,14 +32,6 @@ Video is hosted on YouTube and will require your email address attached to your 
 
 ---
 
-All of my posts have a comment section beneath them, powered by [Giscus](https://giscus.app/).
-
-Did I get something wrong? Do you hate my opinion? Do you have additional thoughts about my blabbering???
-
-**Leave a comment!**
-
-Note this does require a GitHub account.
-
 ## Edits
 
 ### 5/20/2025
@@ -48,3 +40,21 @@ The early access cut has been posted to YouTube! You still have time to get acce
 otherwise the video will be released publicly on 5/22.
 
 Thank you for all of your support! 
+
+### 5/22/2025
+
+Full video is out. GO WATCH IT!
+
+{% include embed/youtube.html id='dbDZXkXpqYs ' %}
+
+[Blog Post](https://blog.adamlaprade.me/posts/HL2-EP2-HARDCORE-Booby-Trapped/)
+
+---
+
+All of my posts have a comment section beneath them, powered by [Giscus](https://giscus.app/).
+
+Did I get something wrong? Do you hate my opinion? Do you have additional thoughts about my blabbering???
+
+**Leave a comment!**
+
+Note this does require a GitHub account.
